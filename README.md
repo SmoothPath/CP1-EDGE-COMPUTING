@@ -61,3 +61,5 @@ Quando o Arduino for ligado =>
 A tela LCD mostrará uma animação de bandeira da equipe e mensagens de boas-vindas.
 
 Após alguns segundos, o sistema começará a medir a luminosidade ambiente e mostrará o status correspondente no LCD, LEDs e buzzer.
+
+Link do vídeo que mostra como o projeto foi implementado, quais foram as dificuldades encontradas e como foram resolvidas: https://youtu.be/CAeBmvlohRQ?si=yQUq_WfzG1wP6Ebp
