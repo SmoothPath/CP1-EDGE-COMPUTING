@@ -38,9 +38,8 @@ Placa Arduino Uno ou compatível
 Cabos de conexão (jumpers)
 
 Como Reproduzir o Projeto:
-1. Clonar o repositório =>
-git clone https://github.com/organizacao/CP1-EDGE-COMPUTING.git
-
+1. Clonar o repositório => https://github.com/SmoothPath/CP1-EDGE-COMPUTING.git
+   
 2. Abrir o código no Arduino IDE =>
 Abra o arquivo .ino incluído no repositório.
 
